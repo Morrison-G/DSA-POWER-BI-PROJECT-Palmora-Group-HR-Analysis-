@@ -61,3 +61,23 @@ Measures
 - `Bonus Amount = IF('Employee'[Rating] > 3, 'Employee'[Salary] * 0.1, 0)`
   
 - `Total Amount to be Paid = 'Employee'[Salary] + 'Bonus Amount'`
+  
+![Screenshot 2025-07-02 195243](https://github.com/user-attachments/assets/87a4961a-d87f-4093-a229-ac0a6d6c6543)
+
+![Screenshot 2025-07-02 195143](https://github.com/user-attachments/assets/9b2cc33b-9a73-4e29-a93e-f21d4e13bc3c)
+
+![Screenshot 2025-07-02 195035](https://github.com/user-attachments/assets/193cc26f-abb6-4379-8010-28675f5858b2)
+
+![Screenshot 2025-07-02 192415](https://github.com/user-attachments/assets/0719ea05-2ca9-4973-9b2e-b23fd4cd797e)
+
+## Findings
+1.	> There are more employees of the gender (Male) in each region.
+2.	> The employees with generic gender are the smallest in each region.
+3.	> Total no of department after removal of NULL Rows is 12.
+4.	> Minimum salary by region is the same amount.
+5.	> Maximum and Average salary by region are different.
+
+## Conclusion
+> Using Power BI to generate business ready insight from identifying, understanding and knowing impacts or decision that affects revenue, when explored correctly or incorrectly.
+
+
